@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @lekesmile
-- 👀 I’m interested in complete application development and cloud technologies 
-- 🌱 I’m currently a Fullstack Engineer
+- 👋 Hi, I’m Olorunleke
+- 👀 I’m interested and fascinated about building scalable web applications. 
+     I specialised in JavaScript and have a work exprience with Vue, React and Node js at backend.
+     I am also skilled in Java, Php and Python. Cloud technologies 
+- 🌱 I’m looking forward to work as a Fullstack Engineer
 - 💞️ I’m looking to collaborate on intresting projects 
 - 📫 How to reach me ...
 
